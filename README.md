@@ -1,6 +1,5 @@
 # Raga Recognition from Audio: A Machine Learning Approach to Carnatic Music Classification
 
-**Author:** Akshaya Bharadhwaj | Master of Data Science, UC Irvine  
 **Dataset:** Saraga Carnatic v1.5 (mirdata)
 **Link to the Dataset:** https://github.com/MTG/saraga 
 ---
@@ -8,7 +7,7 @@
 ## Overview
 
 This project investigates whether static and temporal acoustic features 
-extracted from audio recordings can reliably discriminate Carnatic ragas — 
+extracted from audio recordings can reliably discriminate Carnatic ragas
 the complex melodic framework at the heart of South Indian classical music.
 
 Using the Saraga Carnatic v1.5 dataset (249 professionally recorded tracks, 
